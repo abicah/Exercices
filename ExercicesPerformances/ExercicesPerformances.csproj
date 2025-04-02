@@ -4,9 +4,7 @@
     <ProjectReference Include="..\Exercices\Exercices.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="BenchmarkDotNet" Version="0.14.0" />
-  </ItemGroup>
+  
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
